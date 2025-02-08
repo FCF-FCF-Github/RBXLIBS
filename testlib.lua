@@ -1,1 +1,1 @@
-"wogo15"
+local key = "wogo15"
